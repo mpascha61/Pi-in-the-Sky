@@ -14,6 +14,7 @@ Wile researching we've learned to make sure that the center of pressure of our "
 
 ## Initial Brainstorming
 We've decided to use the teardrop shape for the main body as it is the most aerodynamic. Also, we are going to add fins to stabilize so it doesnt flip and tumble in the air.
+![notamortar diagram](https://user-images.githubusercontent.com/71406930/206541329-ee17906f-74d8-41f4-a5e7-0f06507d06c8.PNG)
 
 
 ## Initial Designing
