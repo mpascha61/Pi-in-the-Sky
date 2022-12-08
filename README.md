@@ -9,6 +9,7 @@ We want to fire a projectile out of Mr. Miller's air cannon that can withold up 
 
 ## Initial Research
 Wile researching we've learned to make sure that the center of pressure of our "mortar" needs to be behind the center of mass.
+![69-Figure5 1-1](https://user-images.githubusercontent.com/71406930/206541266-537109b3-7495-439d-a1c5-15fe138c060b.png)
 
 
 ## Initial Brainstorming
