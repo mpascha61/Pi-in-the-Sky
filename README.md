@@ -23,3 +23,7 @@ We've decided to use the teardrop shape for the main body as it is the most aero
 
 ## Code
 ![block](https://user-images.githubusercontent.com/71406930/206541149-1e0acf0c-7bb9-4517-93df-484c7a67a0a0.PNG)
+
+## Air cannon
+
+Middle opening in the pvc pipe is 3.042 inches.
