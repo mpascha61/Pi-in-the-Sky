@@ -29,6 +29,10 @@ We've decided to use the teardrop shape for the main body as it is the most aero
 
 Middle opening in the pvc pipe is 3.042 inches.
 
+## Risk Mitigation
+
+We will wear proper PPE during all test and final launches as well as keep the projectile safe betweeen launches. Before firing at 100 psi we will do test launches starting from as low as 20 psi. We will also do our best to not fire at homes.
+
 # Timeline (10 weeks)
 
 ## First 2 weeks
