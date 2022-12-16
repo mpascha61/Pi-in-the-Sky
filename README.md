@@ -21,7 +21,6 @@ We've decided to use the teardrop shape for the main body as it is the most aero
 
 ## Initial Designing
 ![notamortar diagram](https://user-images.githubusercontent.com/71406930/206541329-ee17906f-74d8-41f4-a5e7-0f06507d06c8.PNG)
-## Timeline
 
 ## Code
 ![block](https://user-images.githubusercontent.com/71406930/206541149-1e0acf0c-7bb9-4517-93df-484c7a67a0a0.PNG)
@@ -29,3 +28,21 @@ We've decided to use the teardrop shape for the main body as it is the most aero
 ## Air cannon
 
 Middle opening in the pvc pipe is 3.042 inches.
+
+# Timeline (10 weeks)
+
+## First 2 weeks
+
+Onshape design + CFD 
+
+## Next 3 weeks
+
+Learning + Creating ciruit board
+
+## Next 2 weeks 
+
+Coding/Testing
+
+## Last 3 weeks 
+
+Trials/Tribulations
