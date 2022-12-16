@@ -46,3 +46,9 @@ Coding/Testing
 ## Last 3 weeks 
 
 Trials/Tribulations
+
+# Launch day
+
+## Rest of time
+
+Collect data, rework designs with onshape and physical creations, launch again
