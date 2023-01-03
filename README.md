@@ -1,5 +1,5 @@
 # Pi-in-the-Sky
-"Mortar" launch
+The "Flying Fish"
 
 ## Assignment Description
 
