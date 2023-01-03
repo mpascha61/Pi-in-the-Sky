@@ -27,7 +27,7 @@ We've decided to use the teardrop shape for the main body as it is the most aero
 
 ## Air cannon
 
-Middle opening in the pvc pipe is 3.042 inches.
+Middle opening in the larger pvc pipe is 3.042 inches, smaller pvc pipe is 2.047 inches. 
 
 ## Risk Mitigation
 
