@@ -22,6 +22,9 @@ We've decided to use the teardrop shape for the main body as it is the most aero
 ## Initial Designing
 ![notamortar diagram](https://user-images.githubusercontent.com/71406930/206541329-ee17906f-74d8-41f4-a5e7-0f06507d06c8.PNG)
 
+
+-inside diameter of largest part of the rocket is 65.43mm 
+
 ## Code
 ![block](https://user-images.githubusercontent.com/71406930/206541149-1e0acf0c-7bb9-4517-93df-484c7a67a0a0.PNG)
 
