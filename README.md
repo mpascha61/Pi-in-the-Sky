@@ -36,6 +36,10 @@ Middle opening in the larger pvc pipe is 3.042 inches, smaller pvc pipe is 2.047
 
 We will wear proper PPE during all test and final launches as well as keep the projectile safe betweeen launches. Before firing at 100 psi we will do test launches starting from as low as 20 psi. We will also do our best to not fire at homes.
 
+## Data
+
+Spring is 88mm by 21.5mm
+
 # Timeline (10 weeks)
 
 ## First 2 weeks
