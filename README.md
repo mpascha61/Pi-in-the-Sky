@@ -38,7 +38,7 @@ We will wear proper PPE during all test and final launches as well as keep the p
 
 ## Data
 
-Spring is 87.5mm by 21.5mm
+Spring is 87.5mm by 21.5mm. Inside of spring's diameter is 17mm.
 
 # Timeline (10 weeks)
 
