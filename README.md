@@ -38,7 +38,7 @@ We will wear proper PPE during all test and final launches as well as keep the p
 
 ## Data
 
-Spring is 88mm by 21.5mm
+Spring is 87.5mm by 21.5mm
 
 # Timeline (10 weeks)
 
