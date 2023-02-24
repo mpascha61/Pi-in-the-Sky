@@ -58,6 +58,8 @@ Coding/Testing
 
 [GPS Module](rapsberry/gpsmodule.py)
 
+[Accelerometer](rapsberry/accelerometer.py)
+
 ## Last 3 weeks 
 
 Trials/Tribulations
