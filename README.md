@@ -56,7 +56,7 @@ Learning + Creating ciruit board
 
 Coding/Testing
 
-[GPS Module](rapsberry-pi/gpsmodule.py)
+[GPS Module](rapsberry/gpsmodule.py)
 
 ## Last 3 weeks 
 
