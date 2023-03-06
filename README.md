@@ -64,6 +64,8 @@ Coding/Testing
 
 Trials/Tribulations
 
+Now found out we need a button or switch to change the pico from a Data collecting mode to a Data saving mode
+
 # Launch day
 
 ## Rest of time
