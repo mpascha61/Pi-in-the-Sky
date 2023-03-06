@@ -50,7 +50,13 @@ Onshape design + CFD
 ## Next 3 weeks
 
 Learning + Creating ciruit board
-![fsef3w6sgd(final)](https://user-images.githubusercontent.com/71345181/221260905-1209beee-db5b-4a3b-b38d-07db2391548b.jpg)
+
+
+<img src="Images/fsef3w6sgd(final).jpg" width="800">
+
+<img src="Images/TopOfBoard.jpeg" width="400">
+
+<img src="Images/BottomOfBoard.jpeg" width="400">
 
 ## Next 2 weeks 
 
