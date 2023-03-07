@@ -8,7 +8,7 @@ We want to fire a projectile out of Mr. Miller's air cannon that can withold up 
 # Planning
 
 ## Initial Research
-Wile researching we've learned to make sure that the center of pressure of our "mortar" needs to be behind the center of mass.
+While researching we've learned to make sure that the center of pressure of our "mortar" needs to be behind the center of mass.
 ![69-Figure5 1-1](https://user-images.githubusercontent.com/71406930/206541266-537109b3-7495-439d-a1c5-15fe138c060b.png)
 
 We will find the equation for velocity over time V(T) and plot it on a Velocity/Time graph. Then we will use both derivative tests to find the maximum/minimum points as well as points of concavity. 
@@ -45,18 +45,32 @@ Spring is 87.5mm by 21.5mm. Inside of spring's diameter is 17mm.
 ## First 2 weeks
 
 Onshape design + CFD 
+![dsihgkifdjxhjdo](https://user-images.githubusercontent.com/71406930/221002344-a0bbbdf1-104b-4804-958c-2ec628ad9803.PNG)
 
 ## Next 3 weeks
 
 Learning + Creating ciruit board
 
+
+<img src="Images/fsef3w6sgd(final).jpg" width="800">
+
+<img src="Images/TopOfBoard.jpeg" width="400">
+
+<img src="Images/BottomOfBoard.jpeg" width="400">
+
 ## Next 2 weeks 
 
 Coding/Testing
 
+[GPS Module](rapsberry/gpsmodule.py)
+
+[Accelerometer](rapsberry/accelerometer.py)
+
 ## Last 3 weeks 
 
 Trials/Tribulations
+
+Now found out we need a button or switch to change the pico from a Data collecting mode to a Data saving mode
 
 # Launch day
 
