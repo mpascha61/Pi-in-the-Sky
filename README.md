@@ -51,6 +51,8 @@ Onshape design + CFD
 
 Learning + Creating ciruit board
 
+Circuit board itself is 109.3mm by 54mm without modules
+Circuit board with modules is 120.5mm by 54.1mm
 
 <img src="Images/fsef3w6sgd(final).jpg" width="800">
 
