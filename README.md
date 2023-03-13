@@ -45,14 +45,16 @@ Spring is 87.5mm by 21.5mm. Inside of spring's diameter is 17mm.
 ## First 2 weeks
 
 Onshape design + CFD 
-![dsihgkifdjxhjdo](https://user-images.githubusercontent.com/71406930/221002344-a0bbbdf1-104b-4804-958c-2ec628ad9803.PNG)
 
+<img src="Images/dsihgkifdjxhjdo.PNG" width="300">
 ## Next 3 weeks
 
 Learning + Creating ciruit board
 
+Circuit board itself is 109.3mm by 54mm without modules
+Circuit board with modules is 120.5mm by 54.1mm
 
-<img src="Images/fsef3w6sgd(final).jpg" width="800">
+<img src="Images/fsef3w6sgd(final).jpg" width="1">
 
 <img src="Images/TopOfBoard.jpeg" width="400">
 
