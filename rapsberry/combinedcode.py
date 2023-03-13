@@ -20,7 +20,7 @@ gps.send_command(b"PMTK220,1000")
 
 last_print = time.monotonic()
 start_time = time.monotonic()
-with open("/temperature.txt", "a") as datalog:
+with open("data.txt", "a") as datalog:
 
     while True:
         print(mpu.acceleration)
@@ -56,14 +56,11 @@ with open("/temperature.txt", "a") as datalog:
             if gps.speed_knots is not None:
                 print("Speed: {} knots".format(gps.speed_knots))
                 speed = gps.speed_knots
-            if gps.track_angle_deg is not None:
-                print("Track angle: {} degrees".format(gps.track_angle_deg))
-                angle = gps.track_angle_deg
-                location = 
-        time.sleep(.25)
+                lat = gps.latitude
+                long = gps.longitude 
+            time.sleep(.25)
 
-        # data structure: (1) time, (2) altitude, (3) speed, (4) latitude/longitude
-        data = microcontroller.cpu.temperature
-        datalog.write(f'{time.monotonic()-start_time},{altitude},{speed},{location}\n')
-        datalog.flush()
-        time.sleep(1)
+            # data structure: (1) time, (2) altitude, (3) speed, (4) latitude/longitude
+            datalog.write(f'{time.monotonic()-start_time},{altitude},{speed},{lat},{long}\n')
+            datalog.flush()
+            time.sleep(1)
