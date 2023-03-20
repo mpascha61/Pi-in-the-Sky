@@ -40,6 +40,7 @@ We will wear proper PPE during all test and final launches as well as keep the p
 
 Spring is 87.5mm by 21.5mm. Inside of spring's diameter is 17mm.
 
+Diameter for inside of screw holes for circuit board are 2.8mm
 # Timeline (10 weeks)
 
 ## First 2 weeks
