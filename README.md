@@ -49,6 +49,7 @@ Diameter for inside of screw holes for circuit board are 2.8mm
 Onshape design + CFD 
 
 <img src="Images/dsihgkifdjxhjdo.PNG" width="300">
+
 ## Next 3 weeks
 
 Learning + Creating ciruit board
