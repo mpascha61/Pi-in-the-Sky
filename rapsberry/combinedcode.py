@@ -13,6 +13,11 @@ X = (mpu.acceleration[0])
 Y = (mpu.acceleration[1])
 Z = (mpu.acceleration[2])
 
+speed = 0.0
+altitude = 0.0
+lat = 0.0
+longi = 0.0
+
 uart = busio.UART(tx=board.GP16, rx=board.GP17, baudrate=9600, timeout=10)
 gps = adafruit_gps.GPS(uart, debug=False)
 gps.send_command(b"PMTK314,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0")
