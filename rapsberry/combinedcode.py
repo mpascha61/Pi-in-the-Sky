@@ -24,6 +24,7 @@ with open("data.txt", "a") as datalog:
 
     while True:
         print(mpu.acceleration)
+        time.sleep(.5)
         gps.update()
         current = time.monotonic()
         if current - last_print >= 1.0:
@@ -60,7 +61,7 @@ with open("data.txt", "a") as datalog:
                 long = gps.longitude 
             time.sleep(.25)
 
-            # data structure: (1) time, (2) altitude, (3) speed, (4) latitude/longitude
+            # data structure: (1) time, (2) altitude, (3) speed, (4) latitude/longitude 
             datalog.write(f'{time.monotonic()-start_time},{altitude},{speed},{lat},{long}\n')
             datalog.flush()
-            time.sleep(1)
+            time.sleep(.5)
