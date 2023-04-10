@@ -39,7 +39,9 @@ We will wear proper PPE during all test and final launches as well as keep the p
 ## Data
 
 Spring is 87.5mm by 21.5mm. Inside of spring's diameter is 17mm.
+Inside holes for where circuit board screws go are 2.8mm
 
+Diameter for inside of screw holes for circuit board are 2.8mm
 # Timeline (10 weeks)
 
 ## First 2 weeks
@@ -47,6 +49,7 @@ Spring is 87.5mm by 21.5mm. Inside of spring's diameter is 17mm.
 Onshape design + CFD 
 
 <img src="Images/dsihgkifdjxhjdo.PNG" width="300">
+
 ## Next 3 weeks
 
 Learning + Creating ciruit board
