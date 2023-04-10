@@ -13,7 +13,12 @@ X = (mpu.acceleration[0])
 Y = (mpu.acceleration[1])
 Z = (mpu.acceleration[2])
 
-uart = busio.UART(tx=board.GP4, rx=board.GP5, baudrate=9600, timeout=10)
+speed = 0.0
+altitude = 0.0
+lat = 0.0
+longi = 0.0
+
+uart = busio.UART(tx=board.GP16, rx=board.GP17, baudrate=9600, timeout=10)
 gps = adafruit_gps.GPS(uart, debug=False)
 gps.send_command(b"PMTK314,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0")
 gps.send_command(b"PMTK220,1000")
@@ -58,10 +63,10 @@ with open("data.txt", "a") as datalog:
                 print("Speed: {} knots".format(gps.speed_knots))
                 speed = gps.speed_knots
                 lat = gps.latitude
-                long = gps.longitude 
+                longi = gps.longitude 
             time.sleep(.25)
 
             # data structure: (1) time, (2) altitude, (3) speed, (4) latitude/longitude 
-            datalog.write(f'{time.monotonic()-start_time},{altitude},{speed},{lat},{long}\n')
+            datalog.write(f'{time.monotonic()-start_time},{altitude},{speed},{lat},{longi}\n')
             datalog.flush()
             time.sleep(.5)
