@@ -77,6 +77,8 @@ Trials/Tribulations
 
 Now found out we need a button or switch to change the pico from a Data collecting mode to a Data saving mode
 
+always have forceps or needle nose pliers on hand if you are changing something to the circuit board while its in the payload bay because your fat fingers are not fitting that far into the bay.
+
 # Launch day
 
 ## Rest of time
