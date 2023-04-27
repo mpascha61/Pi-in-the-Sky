@@ -60,7 +60,7 @@ with open("data.txt", "a") as datalog:
                 speed = gps.speed_knots
                 lat = gps.latitude
                 longi = gps.longitude 
-
-            # data structure: (1) time, (2) altitude, (3) speed, (4) latitude/longitude 
-            datalog.write(f'{time.monotonic()-start_time},{altitude},{speed},{lat},{longi}\n')
+                accel = mpu.acceleration
+            # data structure: (1) time, (2) altitude, (3) speed, (4) latitude/longitude, (5) acceleration
+            datalog.write(f'{time.monotonic()-start_time},{altitude},{speed},{lat},{longi},{accel}\n')
             datalog.flush()
