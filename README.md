@@ -83,6 +83,8 @@ always have forceps or needle nose pliers on hand if you are changing something 
 
 Immediately tumbled, landed on its side but did not shatter on outside. Inside however had multiple broken parts. Need to add more weight in tip compartment to prevent further tumble.
 
+Filled tip and head of the rocket with copper bbs for more weight support.
+
 ## Post launch days
 
 Printed new mid section for rocket with more supports. Also changed the wire inside to a switch so we could easily change between data or code mode. 
