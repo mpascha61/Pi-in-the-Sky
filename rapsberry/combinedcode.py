@@ -9,9 +9,6 @@ sda_pin = (board.GP14)
 scl_pin = (board.GP15)
 i2c = busio.I2C(scl_pin, sda_pin)
 mpu = adafruit_mpu6050.MPU6050(i2c)
-X = (mpu.acceleration[0])
-Y = (mpu.acceleration[1])
-Z = (mpu.acceleration[2])
 
 speed = 0.0
 altitude = 0.0
@@ -29,13 +26,16 @@ start_time = time.monotonic()
 with open("data.txt", "a") as datalog:
 
     while True:
+        X = (mpu.acceleration[0])
+        Y = (mpu.acceleration[1])
+        Z = (mpu.acceleration[2])
         print(mpu.acceleration)
         gps.update()
         if not gps.has_fix:
-            # Try again if we don't have a fix yet.
+            # Try again if we don't have a fix yet.hjhssss
             print("Waiting for fix...")
             continue
-        # We have a fix! (gps.has_fix is true)
+        # We have a fix! (gps.has_fix is true)hjjkjj
         # Print out details about the fix like location, date, etc.
         print("=" * 40)  # Print a separator line.
 
