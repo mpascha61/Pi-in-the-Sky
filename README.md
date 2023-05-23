@@ -92,3 +92,23 @@ Printed new mid section for rocket with more supports. Also changed the wire ins
 ## Rest of time
 
 Collect data, rework designs with onshape and physical creations, launch again
+
+# 4/24
+
+
+
+
+# 5/1
+
+
+
+# 5/8
+
+
+
+# 5/15
+
+
+
+# 5/22
+lastest launch test ended in complete seperation of the threading between the top and the body. We believe due to the added weight from the iron ring the spring bottomed out and put all the force of the landing into that one small point. We could possibly get a stronger spring as well as reinforce the bottom of the spring in case of another bottom out. The projectile also keeps tumbling, however, the air cannon seems to be moving as is fire and that could be a possible factor but we do need to fix the weight distribution as it has changed with the added weight.
