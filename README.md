@@ -94,12 +94,12 @@ Printed new mid section for rocket with more supports. Also changed the wire ins
 Collect data, rework designs with onshape and physical creations, launch again
 
 # 4/24
-
+-code stuff/padding
 
 
 
 # 5/1
-
+launch angle/switch
 
 
 # 5/8
@@ -107,7 +107,7 @@ Collect data, rework designs with onshape and physical creations, launch again
 
 
 # 5/15
-
+This week was focusing on fixing the weight distribution. Even with the added weight inside the upper body the projectile was still tumbling when shot. Instead of doddling around with those stupid copper shots and hot glue we decided to just cut a ring out of half inch rail road tie using the waterject. The new eight of the projectile was almost 500 grams. We attached it to the inside of the upper body with hot glue and, with all of the other weight that we added, we managed to move the center of mass up about a good inch-inch and a half. The gps module keeps coming out with every launch because its stupid and I hate it and it doesnt want to stay in the damn header and no matter what we put around it it manages to plop out because it is stubborn.
 
 
 # 5/22
