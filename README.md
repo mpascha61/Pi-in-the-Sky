@@ -94,7 +94,7 @@ Printed new mid section for rocket with more supports. Also changed the wire ins
 Collect data, rework designs with onshape and physical creations, launch again
 
 # 4/24
--code stuff/padding
+Added aceleration to be printed out with the other date. Fixed multiple small erros involving small mistakes such as missing colons and writing things the wrong way. Added exstensive padding to the inside of the projectile in order to protect the gps module and powerboost. 
 
 
 
