@@ -99,7 +99,7 @@ Added aceleration to be printed out with the other date. Fixed multiple small er
 
 
 # 5/1
-launch angle/switch
+We figured out from looking at mortar launchers that a higher launch angle will benefit what we are looking for. We dont want a lot of distance in our firing, we are trying to find maximum velocity. We also added a better switch in order to switch between data mode and boot mode a lot easier than before. also a small note make sure to hold down the launch button when firing in order to get the most air released as possible.
 
 
 # 5/8
