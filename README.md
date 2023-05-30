@@ -25,6 +25,12 @@ We've decided to use the teardrop shape for the main body as it is the most aero
 
 -inside diameter of largest part of the rocket is 65.43mm 
 
+## Materials used
+
+-Multiple re-prints using PLA for rocket structure
+-Foam used to cushion parts inside the rocket (Pico, Accelerometer, GPS module, Powerboost, Battery, and Switch)
+-Copper BBs used initially in head of rocket to weigh down, later water-cut a ring of railroad metal to provide more weight
+
 ## Code
 ![block](https://user-images.githubusercontent.com/71406930/206541149-1e0acf0c-7bb9-4517-93df-484c7a67a0a0.PNG)
 
