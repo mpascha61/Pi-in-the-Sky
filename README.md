@@ -28,7 +28,9 @@ We've decided to use the teardrop shape for the main body as it is the most aero
 ## Materials used
 
 -Multiple re-prints using PLA for rocket structure
+
 -Foam used to cushion parts inside the rocket (Pico, Accelerometer, GPS module, Powerboost, Battery, and Switch)
+
 -Copper BBs used initially in head of rocket to weigh down, later water-cut a ring of railroad metal to provide more weight
 
 ## Code
