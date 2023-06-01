@@ -65,11 +65,13 @@ Learning + Creating ciruit board
 Circuit board itself is 109.3mm by 54mm without modules
 Circuit board with modules is 120.5mm by 54.1mm
 
-<img src="Images/fsef3w6sgd(final).jpg" width="1">
+<img src="Images/fsef3w6sgd(final)2.jpg" width="400">
 
 <img src="Images/TopOfBoard.jpeg" width="400">
 
 <img src="Images/BottomOfBoard.jpeg" width="400">
+
+
 
 ## Next 2 weeks 
 
