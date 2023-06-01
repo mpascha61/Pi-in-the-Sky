@@ -3,7 +3,7 @@ The "Flying Fish"
 
 ## Assignment Description
 
-We want to fire a projectile out of Mr. Miller's air cannon that can withold up to 100 psi of pressure. We want our payload to achieve the greatest possible velocity upon launch.
+We want to fire a projectile out of Mr. Miller's air cannon that can withold up to 100 psi of pressure. We want our payload to measure the distance travelled and acceleration experienced.
 
 # Planning
 
