@@ -1,6 +1,8 @@
 # Pi-in-the-Sky
 The "Flying Fish"
 
+Malachi and Graham 
+
 ## Assignment Description
 
 We want to fire a projectile out of Mr. Miller's air cannon that can withold up to 100 psi of pressure. We want our payload to measure the distance travelled and acceleration experienced.
