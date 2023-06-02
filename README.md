@@ -135,3 +135,7 @@ lastest launch test ended in complete seperation of the threading between the to
 Graham cleans up pretzel crumbs
 
 <img src="Images/IMG_3216.jpeg" width="400">
+
+# 6/2 Final day
+
+Unable to re-launch to collect accelerometer data again as the new print of our rocket's body is difficult to fit the Pico into. We should have been more efficient with our time and tested certain parts before going all-in such as the GPS module.
