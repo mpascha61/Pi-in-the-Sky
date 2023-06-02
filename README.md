@@ -121,6 +121,7 @@ Further added a default value of acceleration to be 0 in the code. Fixed locatio
 # 5/15
 This week was focusing on fixing the weight distribution. Even with the added weight inside the upper body the projectile was still tumbling when shot. Instead of doddling around with those stupid copper shots and hot glue we decided to just cut a ring out of half inch rail road tie using the waterject. The new eight of the projectile was almost 500 grams. We attached it to the inside of the upper body with hot glue and, with all of the other weight that we added, we managed to move the center of mass up about a good inch-inch and a half. The gps module keeps coming out with every launch because its stupid and I hate it and it doesnt want to stay in the damn header and no matter what we put around it it manages to plop out because it is stubborn.
 
+<img src="Images/leadring.jpg" width="400">
 
 # 5/22
 lastest launch test ended in complete seperation of the threading between the top and the body. We believe due to the added weight from the iron ring the spring bottomed out and put all the force of the landing into that one small point. We could possibly get a stronger spring as well as reinforce the bottom of the spring in case of another bottom out. The projectile also keeps tumbling, however, the air cannon seems to be moving as is fire and that could be a possible factor but we do need to fix the weight distribution as it has changed with the added weight.
