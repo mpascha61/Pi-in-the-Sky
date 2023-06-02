@@ -116,7 +116,7 @@ We figured out from looking at mortar launchers that a higher launch angle will 
 
 
 # 5/8
-Further added a default value of acceleration to be 0 in the code. Fixed locations (tabbing) of lines of code to work properly.
+Further added a default value of acceleration to be 0 in the code. Fixed locations (tabbing) of lines of code to work properly. We also added more copper bbs to weigh the top of the projectile. We did 2 ways. One was we filled the top half the print of the new tip and stopped it to fill with copper bbs. We also filled cardboard with copper bbs around the head of the rocket which was later changed to a garnet-cut metal ring.
 
 # 5/15
 This week was focusing on fixing the weight distribution. Even with the added weight inside the upper body the projectile was still tumbling when shot. Instead of doddling around with those stupid copper shots and hot glue we decided to just cut a ring out of half inch rail road tie using the waterject. The new eight of the projectile was almost 500 grams. We attached it to the inside of the upper body with hot glue and, with all of the other weight that we added, we managed to move the center of mass up about a good inch-inch and a half. The gps module keeps coming out with every launch because its stupid and I hate it and it doesnt want to stay in the damn header and no matter what we put around it it manages to plop out because it is stubborn.
